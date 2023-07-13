@@ -1,0 +1,16 @@
+Package: RegComparison
+Type: Package
+Title: Compare the beta weigths of 2 Regressions
+Version: 0.1.0
+Author: NDM
+Maintainer: The package maintainer (muenstern@uni-trier.de)
+Description: A package for comparing 2 regression models and performing significance tests.
+License: GPLv3 license
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends: knitr
+Imports: knitr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
